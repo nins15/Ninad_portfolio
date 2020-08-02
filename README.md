@@ -9,7 +9,7 @@
 * Trained a number of CNN models on all the images like XceptionNet, EfficientNet, InceptionResNetV2, DenseNet etc. to identify multiple labels for each class.
 * Three models with best AUC were chosen for ensembelling by concatinating the last layers of each model.
 
-![](https://github.com/nins15/Ninad_portfolio/blob/master/Ensembleimage.png "Ensemble")
+![](/Ensembleimage.png)
  
  
 # [Project 2 :Localising-diseases-on-plant-leaves:Problem Review](https://github.com/nins15/Localising-diseases-on-plant-leaves)
@@ -19,11 +19,11 @@
 * Lastly the localizations of the input image is obtained using a GRADCAM.
 
 
-![](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/finalresult.png "finalresult")
+![](/Localising-diseases-on-plant-leaves/blob/master/finalresult.png)
 
 
 # [Project 3 :Visualizing Weights of CNN Deep learning model on ISIC dataset: Project overview](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset)
 * I have visualized the intermediate weights that exist between the layers of a neural network
 * An image from the ISIC data set which contains Malignant and benign images fed into the network
 * Output is an image representing 'weight concentrations'
-![](https://github.com/nins15/Ninad_portfolio/blob/master/weights.png)
+![](/weights.png)
