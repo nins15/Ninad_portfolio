@@ -19,7 +19,7 @@
 * Lastly the localizations of the input image is obtained using a GRADCAM.
 
 
-![](/Localising-diseases-on-plant-leaves/blob/master/finalresult.png)
+![](/finalresult.png)
 
 
 # [Project 3 :Visualizing Weights of CNN Deep learning model on ISIC dataset: Project overview](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset)
