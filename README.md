@@ -2,7 +2,7 @@
 
 
 
-# Project1: Automated chest x-ray interpretation using Deep Learning:Project review
+# [Project1: Automated chest x-ray interpretation using Deep Learning:Project review](https://github.com/nins15/Automated-chest-x-ray-interpretation-using-Deep-Learning)
 * Created a CNN model for detecting 5 diseases which are Cardiomegaly,Edema,Consolidation,Atelectasis,Pleural Effusion
 * Removed the redundant parts from the image like shoulder or text using a library that can detect lungs on chest x-rays
 * Mapped the uncertain values in the csv using LSR(Label smoothning regression).
