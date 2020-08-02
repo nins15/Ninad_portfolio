@@ -12,7 +12,7 @@
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Ensembleimage.png "Ensemble")
  
  
- # [Project 2 :Localising-diseases-on-plant-leaves:Problem Review](https://github.com/nins15/Localising-diseases-on-plant-leaves)
+# [Project 2 :Localising-diseases-on-plant-leaves:Problem Review](https://github.com/nins15/Localising-diseases-on-plant-leaves)
 * I have developed a system that can detect plant diseases and localization using GRADCAM.
 * Obtained a highly imbalanced dataset which was then balanced using augmentation.
 * This balanced datset is then fed to two multiclass CNN models for classification called ResNet and EfficientNet
