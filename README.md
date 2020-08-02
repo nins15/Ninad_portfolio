@@ -21,6 +21,7 @@
 
 ![alt text](https://github.com/nins15/Localising-diseases-on-plant-leaves/blob/master/finalresult.png "finalresult")
 
+
 # [Project 3 :Visualizing Weights of CNN Deep learning model on ISIC dataset: Project overview](https://github.com/nins15/Visualizing-Weights-of-CNN-model-on-ISIC-dataset)
 * I have visualized the intermediate weights that exist between the layers of a neural network
 * An image from the ISIC data set which contains Malignant and benign images fed into the network
