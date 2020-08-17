@@ -41,10 +41,8 @@
 ---
 
 
----
 
-<p align="center">
+
   ![](/Forgif.gif)
-</p>
 
----
+
