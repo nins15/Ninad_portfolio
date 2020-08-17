@@ -27,3 +27,16 @@
 * An image from the ISIC data set which contains Malignant and benign images fed into the network
 * Output is an image representing 'weight concentrations'
 ![](/weights.png)
+
+
+
+# [Project 4 :Vehicle speed and congestion detector](https://github.com/nins15/Vehicle-speed-and-congestion-detector)
+---
+
+
+* Objects like car ,truck and person are detected using Tensorflow object detection api
+* Speed is calculated for the last dtected object along with its directio
+* If any two objects come too close to each other then "WARNING" is displayed to mark congestion
+
+---
+
