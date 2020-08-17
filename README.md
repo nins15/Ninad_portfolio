@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/nins15/Ninad_portfolio/blob/master/Forgif.gif">
+  ![](/Forgif.gif)
 </p>
 
 ---
